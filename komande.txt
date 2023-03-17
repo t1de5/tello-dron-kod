@@ -1,0 +1,15 @@
+    "t": uzletanje
+    "l": sletanje
+    "f": aktiviranje/deaktiviranje praćenja lica
+    "r": rotacija drona u smjeru kazaljke na satu za 45 stupnjeva
+    "g": rotacija drona u suprotnom smjeru od kazaljke na satu za 45 stupnjeva
+    "q": kretanje drona prema gore
+    "e": kretanje drona prema dolje
+    "a": kretanje drona u lijevo
+    "d": kretanje drona u desno
+    "w": kretanje drona naprijed
+    "s": kretanje drona unatrag
+    Strelica prema gore: salto prema naprijed
+    Strelica prema dolje: salto prema natrag
+    Strelica prema lijevo: salto u lijevo
+    Strelica prema desno: salto u desno
